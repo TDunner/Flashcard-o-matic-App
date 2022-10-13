@@ -4,7 +4,6 @@ This project was made for students or anyone studying something to be able to cr
 
 This project helped me practice using React! I remember having trouble managing my useEffect hooks. But as soon as I started to separate them into smaller functions they became much more manageable. This project was fun and I want to go back and add some CSS styling.
 
-
 ## Goals
 
 - Installing packages via NPM.
@@ -22,14 +21,12 @@ This project helped me practice using React! I remember having trouble managing 
 
 **Server:** This file has data hard coded in. This was made just to test the React skills so no API was connected.
 
-  
 ## Acknowledgements
 
- - [Thinkful](https://thinkful.com)
+- [Thinkful](https://thinkful.com)
 
-  
 ## Authors
 
-- [@greatandrewhan](https://www.github.com/greatandrewhan)
+- [@tdunner](https://www.github.com/tdunner)
 
 ![Alt text](/flashcard-front.jpg?raw=true "Flashcard")
